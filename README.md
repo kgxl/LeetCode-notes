@@ -14,6 +14,10 @@ LeetCode解题思路的记录
 
 - [19. 删除链表的倒数第N个节点](https://github.com/kgxl/LeetCode-notes/blob/master/question/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.md)
 
+- [31.下一个排列.md](https://github.com/kgxl/LeetCode-notes/blob/master/question/31.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.md)
+
+- [32. 最长有效括号](https://github.com/kgxl/LeetCode-notes/blob/master/question/32.%20%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.md)
+
 - [167. 两数之和 II - 输入有序数组](https://github.com/kgxl/LeetCode-notes/blob/master/question/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 
 - [169. 多数元素](https://github.com/kgxl/LeetCode-notes/blob/master/question/169.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
