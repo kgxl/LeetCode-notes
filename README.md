@@ -14,7 +14,7 @@ LeetCode解题思路的记录
 
 - [19. 删除链表的倒数第N个节点](https://github.com/kgxl/LeetCode-notes/blob/master/question/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.md)
 
-- [31.下一个排列.md](https://github.com/kgxl/LeetCode-notes/blob/master/question/31.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.md)
+- [31.下一个排列](https://github.com/kgxl/LeetCode-notes/blob/master/question/31.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.md)
 
 - [32. 最长有效括号](https://github.com/kgxl/LeetCode-notes/blob/master/question/32.%20%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.md)
 
