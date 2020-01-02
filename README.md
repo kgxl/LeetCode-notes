@@ -20,6 +20,10 @@ LeetCode解题思路的记录
 
 - [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/kgxl/LeetCode-notes/blob/master/question/34.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
 
+- [48. 旋转图像](https://github.com/kgxl/LeetCode-notes/blob/master/question/48.%20%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md)
+
+- [55. 跳跃游戏](https://github.com/kgxl/LeetCode-notes/blob/master/question/55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md)
+
 - [167. 两数之和 II - 输入有序数组](https://github.com/kgxl/LeetCode-notes/blob/master/question/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 
 - [169. 多数元素](https://github.com/kgxl/LeetCode-notes/blob/master/question/169.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
