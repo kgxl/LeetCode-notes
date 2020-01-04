@@ -26,6 +26,8 @@ LeetCode解题思路的记录
 
 - [75. 颜色分类](https://github.com/kgxl/LeetCode-notes/blob/master/question/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md)
 
+- [94. 二叉树的中序遍历](https://github.com/kgxl/LeetCode-notes/blob/master/question/94.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md)
+
 - [167. 两数之和 II - 输入有序数组](https://github.com/kgxl/LeetCode-notes/blob/master/question/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 
 - [169. 多数元素](https://github.com/kgxl/LeetCode-notes/blob/master/question/169.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
