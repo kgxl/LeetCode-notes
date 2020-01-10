@@ -14,6 +14,8 @@ LeetCode解题思路的记录
 
 - [19. 删除链表的倒数第N个节点](https://github.com/kgxl/LeetCode-notes/blob/master/question/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.md)
 
+- [22. 括号生成](https://github.com/kgxl/LeetCode-notes/blob/master/question/22.%20%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
+
 - [23. 合并K个排序链表.md](https://github.com/kgxl/LeetCode-notes/blob/master/question/23.%20%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
 
 - [31.下一个排列](https://github.com/kgxl/LeetCode-notes/blob/master/question/31.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.md)
@@ -21,6 +23,8 @@ LeetCode解题思路的记录
 - [32. 最长有效括号](https://github.com/kgxl/LeetCode-notes/blob/master/question/32.%20%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.md)
 
 - [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/kgxl/LeetCode-notes/blob/master/question/34.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
+
+- [39. 组合总和](https://github.com/kgxl/LeetCode-notes/blob/master/question/39.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
 
 - [48. 旋转图像](https://github.com/kgxl/LeetCode-notes/blob/master/question/48.%20%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md)
 
@@ -44,7 +48,7 @@ LeetCode解题思路的记录
 
 - [217. 存在重复元素](http://github.com/kgxl/LeetCode-notes/blob/master/question/217.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)
 
-- [215. 数组中的第K个最大元素]([https://github.com/kgxl/LeetCode-notes/blob/master/question/215.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md)
+- [215. 数组中的第K个最大元素](https://github.com/kgxl/LeetCode-notes/blob/master/question/215.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md)
 
 - [219. 存在重复元素 II](https://github.com/kgxl/LeetCode-notes/blob/master/question/219.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II.md)
 
