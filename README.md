@@ -30,6 +30,8 @@
 
 - [46. 全排列]( https://github.com/kgxl/LeetCode-notes/blob/master/question/46.%20%E5%85%A8%E6%8E%92%E5%88%97.md)
 
+- [47. 全排列 II](https://github.com/kgxl/LeetCode-notes/blob/master/question/47.%20%E5%85%A8%E6%8E%92%E5%88%97%20II.md)
+
 - [48. 旋转图像](https://github.com/kgxl/LeetCode-notes/blob/master/question/48.%20%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md)
 
 - [55. 跳跃游戏](https://github.com/kgxl/LeetCode-notes/blob/master/question/55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md)
