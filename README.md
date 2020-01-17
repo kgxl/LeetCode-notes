@@ -28,6 +28,8 @@
 
 - [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/kgxl/LeetCode-notes/blob/master/question/34.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
 
+- [36. 有效的数独](https://github.com/kgxl/LeetCode-notes/blob/master/question/36.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md)
+
 - [39. 组合总和](https://github.com/kgxl/LeetCode-notes/blob/master/question/39.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
 
 - [40. 组合总和 II](https://github.com/kgxl/LeetCode-notes/blob/master/question/40.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20II.md)
@@ -37,6 +39,8 @@
 - [47. 全排列 II](https://github.com/kgxl/LeetCode-notes/blob/master/question/47.%20%E5%85%A8%E6%8E%92%E5%88%97%20II.md)
 
 - [48. 旋转图像](https://github.com/kgxl/LeetCode-notes/blob/master/question/48.%20%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md)
+
+- [49. 字母异位词分组](https://github.com/kgxl/LeetCode-notes/blob/master/question/49.%20%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.md)
 
 - [55. 跳跃游戏](https://github.com/kgxl/LeetCode-notes/blob/master/question/55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md)
 
